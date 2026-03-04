@@ -201,12 +201,12 @@ const VideoSection = () => {
           >
             {/* Using a sample video - in production, replace with your brand video */}
             <source 
-              src="https://cdn.coverr.co/videos/coverr-fashion-models-in-a-studio-2584/1080p.mp4" 
+              src="https://res.cloudinary.com/drefcs4o2/video/upload/v1772656975/3753696-uhd_3840_2160_25fps_pzx3qx.mp4" 
               type="video/mp4" 
             />
             {/* Fallback video */}
             <source 
-              src="https://cdn.coverr.co/videos/coverr-urban-street-fashion-5246/1080p.mp4" 
+              src="https://res.cloudinary.com/drefcs4o2/video/upload/v1772500030/8558879-uhd_4096_2160_25fps_xsnkpm.mp4" 
               type="video/mp4" 
             />
             Your browser does not support the video tag.
@@ -1642,7 +1642,7 @@ const AboutPage = ({ onBack }: { onBack: () => void }) => {
             transition={{ delay: 0.3 }}
           >
             <img
-              src="https://images.unsplash.com/photo-1539109136881-3be0616acf4b?w=800&q=80"
+              src="https://res.cloudinary.com/drefcs4o2/image/upload/v1772657745/IMG_1716_b4axfz.jpg"
               alt="LITXTRA Culture"
               className="w-full h-full object-cover"
             />
@@ -1690,7 +1690,7 @@ const AboutPage = ({ onBack }: { onBack: () => void }) => {
         >
           <div className="aspect-[4/3] overflow-hidden">
             <img
-              src="https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&q=80"
+              src="https://res.cloudinary.com/drefcs4o2/image/upload/v1772657736/IMG_1776_rykbwu.jpg"
               alt="LITXTRA Studio"
               className="w-full h-full object-cover"
             />
