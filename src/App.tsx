@@ -297,7 +297,7 @@ const ConceptSection = ({ onJoinCommunity }: { onJoinCommunity: () => void }) =>
           >
             <div className="aspect-[3/4] overflow-hidden">
               <img
-                src="https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=800&q=80"
+                src="https://res.cloudinary.com/drefcs4o2/image/upload/v1772654455/IMG_1705_urmpna.jpg"
                 alt="Editorial"
                 className="w-full h-full object-cover distort-hover"
               />
@@ -341,7 +341,7 @@ const ConceptSection = ({ onJoinCommunity }: { onJoinCommunity: () => void }) =>
           >
             <div className="aspect-square overflow-hidden">
               <img
-                src="https://images.unsplash.com/photo-1539109136881-3be0616acf4b?w=600&q=80"
+                src="https://res.cloudinary.com/drefcs4o2/image/upload/v1772730876/photo_2026-03-05_18-14-07_ffwsg8.jpg"
                 alt="Style"
                 className="w-full h-full object-cover distort-hover"
               />
@@ -354,7 +354,7 @@ const ConceptSection = ({ onJoinCommunity }: { onJoinCommunity: () => void }) =>
           >
             <div className="aspect-[4/5] overflow-hidden">
               <img
-                src="https://images.unsplash.com/photo-1529139574466-a303027c1d8b?w=600&q=80"
+                src="https://res.cloudinary.com/drefcs4o2/image/upload/v1772730877/photo_2026-03-05_18-14-13_xkzxtd.jpg"
                 alt="Expression"
                 className="w-full h-full object-cover distort-hover"
               />
@@ -1389,7 +1389,7 @@ const NewArrivalsPage = ({
             <div className="absolute inset-0 flex items-center p-8 md:p-16">
               <div>
                 <p className="font-mono text-xs text-void-accent mb-2">DROP_002</p>
-                <h2 className="font-serif text-3xl md:text-5xl mb-4">Signal Collection</h2>
+                <h2 className="font-serif text-3xl md:text-5xl mb-4">Feel the Motion</h2>
                 <p className="font-sans text-void-white/70 max-w-md mb-6">
                   Disruption meets design. Limited quantities, unlimited impact.
                 </p>
@@ -1533,7 +1533,7 @@ const ArchivePage = ({
             transition={{ delay: 0.3 }}
           >
             <img
-              src="https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=800&q=80"
+              src="https://res.cloudinary.com/drefcs4o2/image/upload/v1772654455/IMG_1705_urmpna.jpg"
               alt="Archive Feature"
               className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
             />
