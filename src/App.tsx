@@ -197,7 +197,6 @@ const VideoSection = () => {
             muted
             loop
             playsInline
-            poster="https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1920&q=80"
           >
             {/* Using a sample video - in production, replace with your brand video */}
             <source 
@@ -206,7 +205,7 @@ const VideoSection = () => {
             />
             {/* Fallback video */}
             <source 
-              src="https://res.cloudinary.com/drefcs4o2/video/upload/v1772500030/8558879-uhd_4096_2160_25fps_xsnkpm.mp4" 
+              src="https://res.cloudinary.com/drefcs4o2/video/upload/v1772656975/3753696-uhd_3840_2160_25fps_pzx3qx.mp4" 
               type="video/mp4" 
             />
             Your browser does not support the video tag.
@@ -1381,7 +1380,7 @@ const NewArrivalsPage = ({
         >
           <div className="aspect-[21/9] md:aspect-[3/1] relative">
             <img
-              src="https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=1920&q=80"
+              src="https://res.cloudinary.com/drefcs4o2/image/upload/v1772654477/photo_2026-03-04_20-20-04_kgb5ay.jpg"
               alt="New Collection"
               className="w-full h-full object-cover"
             />
